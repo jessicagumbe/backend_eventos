@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/backend_eventos.iml" filepath="$PROJECT_DIR$/.idea/backend_eventos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo_pagamento/modulo_pagamento.iml" filepath="$PROJECT_DIR$/modulo_pagamento/modulo_pagamento.iml" />
       <module fileurl="file://$PROJECT_DIR$/modulo_service-resistry/modulo_service-resistry.iml" filepath="$PROJECT_DIR$/modulo_service-resistry/modulo_service-resistry.iml" />
     </modules>
   </component>
