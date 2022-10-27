@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/modulo_service-resistry/pom.xml" />
+        <option value="$PROJECT_DIR$/modulo_pagamento/pom.xml" />
       </list>
     </option>
   </component>
